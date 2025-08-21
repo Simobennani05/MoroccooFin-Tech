@@ -25,7 +25,7 @@ Data Files: Excel/CSV files containing OPCVM performance, maturity/title data, M
 Installation
 
 Clone the Repository:
-git clone https://github.com/[Your-GitHub-Username]/MoroccoFin-Tech.git
+git clone https://github.com/Simobennani05/MoroccoFin-Tech.git
 cd MoroccoFin-Tech
 
 
